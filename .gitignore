@@ -1,0 +1,7 @@
+# 运行日志
+SokuVoice.log
+*.log
+
+# 编译中间产物
+*.pdb
+*.obj

@@ -39,10 +39,11 @@ build.bat
 
 ## 使用
 
-1. 把 `SokuVoice.exe`、`SokuVoice.ini`、`th123v\` 放在同一目录。
-2. 启动 `SokuVoice.exe`，托盘出现图标即表示运行中。
-3. 先启动 th123，语音会随对局状态播放；托盘菜单可开关语音、打开设置与调试窗口。
-4. 修改 `SokuVoice.ini` 后重启程序生效。
+1. 直接用仓库里的 `SokuVoice.exe`，或从 [Releases](../../releases) 下载打包好的版本。
+2. 把 `SokuVoice.exe`、`SokuVoice.ini`、`th123v\` 放在同一目录。
+3. 启动 `SokuVoice.exe`，托盘出现图标即表示运行中。
+4. 先启动 th123，语音会随对局状态播放；托盘菜单可开关语音、打开设置与调试窗口。
+5. 修改 `SokuVoice.ini` 后重启程序生效。
 
 ### SokuVoice.ini
 
